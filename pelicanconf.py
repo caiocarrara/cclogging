@@ -26,6 +26,17 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+DELETE_OUTPUT_DIRECTORY = True  # on each site generation
+
+THEME = 'themes/cclogging'
+
+ARTICLE_PATHS = ['posts']
+ARTICLE_URL = ARTICLE_SAVE_AS = 'blog/{slug}.html'
+PAGE_URL = PAGE_SAVE_AS = '{slug}.html'
+TAG_URL = TAG_SAVE_AS = 'tags/{slug}.html'
+
+NEWEST_FIRST_ARCHIVES = True
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
