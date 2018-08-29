@@ -7,6 +7,10 @@ AUTHOR_EMAIL = 'eu@caiocarrara.com.br'
 SITENAME = 'Caio Carrara - Logging'
 SITEURL = 'http://caiocarrara.com.br'
 
+TAGLINE = (
+    'Python, software/internet livre, open source e ideias aleatórias. Não necessariamente nessa ordem'
+)
+
 PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
