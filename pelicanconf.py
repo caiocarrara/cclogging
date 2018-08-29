@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Caio Carrara'
 AUTHOR_EMAIL = 'eu@caiocarrara.com.br'
 SITENAME = 'Caio Carrara - Logging'
-SITEURL = 'http://caiocarrara.com.br'
+SITEURL = 'http://localhost:8000'
 
 TAGLINE = (
     'Python, software/internet livre, open source e ideias aleatórias. Não necessariamente nessa ordem'
