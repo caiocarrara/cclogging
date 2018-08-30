@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  {% with source=author %}
+    {% include 'includes/articles_for.html' %}
+  {% endwith %}
+{% endblock %}

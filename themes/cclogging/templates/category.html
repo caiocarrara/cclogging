@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<h1>Artigos sobre {{ category.name|capitalize }}</h1>
-{% include 'includes/articles_list.html' %}
+  {% with source=category %}
+    {% include 'includes/articles_for.html' %}
+  {% endwith %}
 {% endblock %}
