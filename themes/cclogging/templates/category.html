@@ -1,0 +1,6 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Artigos sobre {{ category.name|capitalize }}</h1>
+{% include 'includes/articles_list.html' %}
+{% endblock %}

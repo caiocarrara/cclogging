@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Assuntos</h1>
+
+<ul>
+{% for category in categories|sort %}
+  <li><a href="{{ SITEURL }}/{{ category.0.url }}">{{ category.0.name }}</a></li>
+{% endfor %}
+</ul>
+{% endblock %}
