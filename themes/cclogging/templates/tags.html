@@ -1,11 +1,7 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<h1>Tags</h1>
-
-<ul>
-{% for tag in tags|sort %}
-  <li><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0.name }}</a></li>
-{% endfor %}
-</ul>
+  {% with items=tags, title='Tags' %}
+    {% include 'includes/list_items.html' %}
+  {% endwith %}
 {% endblock %}
