@@ -1,0 +1,37 @@
+<footer class="footer">
+  <div class="container">
+    <div class="bd-footer-links" style="margin-top: 0">
+      <div class="columns">
+        <div class="column">
+          <p class="bd-footer-link-title">
+            <a href="{{ SITEURL }}">Início</a>
+          </p>
+
+          <p class="bd-footer-link-title">Caio Carrara</p>
+          <p class="bd-footer-link">
+            <a href="https://github.com/cacarrara">Github</a>
+          </p>
+          <p class="bd-footer-link">
+            <a href="https://twitter.com/CaioWCC">Twitter</a>
+          </p>
+        </div>
+        <div class="column">
+          <p class="bd-footer-link-title">Assuntos</p>
+          {% for category in categories %}
+          <p class="bd-footer-link">
+            <a href="{{ SITEURL }}/{{ category.0.url }}">{{ category.0.name|capitalize }}</a></li>
+          </p>
+          {% endfor %}
+        </div>
+        <div class="column">
+          <p class="bd-footer-link-title">Mais</p>
+          {% for page in pages %}
+          <p class="bd-footer-link">
+            <a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
+          </p>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

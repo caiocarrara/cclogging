@@ -27,6 +27,7 @@
   {% endif %}
 
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bulma.min.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bulma-docs.min.css">
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/logging.css">
   {% block head_css %}{% endblock %}
 </head>
@@ -38,7 +39,6 @@
       </div>
       <div class="navbar-menu">
         <div class="navbar-end">
-          <a class="navbar-item" href="{{ SITEURL }}/categories.html">Assuntos</a>
           {% for page in pages %}
           <a class="navbar-item" href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
           {% endfor %}
@@ -49,5 +49,7 @@
 
   {% block content %}
   {% endblock %}
+
+  {% include 'includes/footer.html' %}
 </body>
 </html>
