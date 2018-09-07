@@ -4,6 +4,13 @@
 <section class="section" style="padding-bottom: 0">
   <div class="container">
     <h1 class="title is-2">Blog - Logging</h1>
+    <div class="tags">
+      {% for category in categories %}
+      <span class="tag is-dark">
+        <a class="has-text-white" href="{{ SITEURL }}/{{ category.0.url }}">{{ category.0.name|capitalize }}</a>
+      </span>
+      {% endfor %}
+    </div>
   </div>
 </section>
   {% include 'includes/articles_list.html' %}

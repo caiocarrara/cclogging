@@ -1,6 +1,12 @@
 <section class="section" style="padding-bottom: 0">
   <div class="container">
     <h1 class="title is-2">Artigos de {{ source.name|capitalize }}</h1>
+
+    <div class="tags">
+      <span class="tag is-dark">
+        <a class="has-text-white" href="{{ SITEURL }}/blog.html">Todos assuntos</a>
+      </span>
+    </div>
   </div>
 </section>
 {% include 'includes/articles_list.html' %}

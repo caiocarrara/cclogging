@@ -36,13 +36,13 @@
     <div class="container">
       <div class="navbar-brand">
         <a class="navbar-item" href="{{ SITEURL }}/"><h1 class="title is-3 has-text-white">{{ SITENAME }}</h1></a>
+        <a class="navbar-item" href="{{ SITEURL }}/blog.html">Blog</a>
+        <a class="navbar-item" href="{{ SITEURL }}/sobre.html">Sobre</a>
       </div>
       <div class="navbar-menu">
-        <div class="navbar-end">
-          <a class="navbar-item" href="{{ SITEURL }}/blog.html">Blog</a>
-          {% for page in pages %}
-          <a class="navbar-item" href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
-          {% endfor %}
+        <div class="navbar-start">
+          <a class="navbar-item" href="{{ SITEURL }}/contato.html">Contato</a>
+          <a class="navbar-item" href="{{ SITEURL }}/apresentacoes.html">Apresentações</a>
         </div>
       </div>
     </div>
