@@ -99,5 +99,5 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 ## Contato
 
 Se estiver querendo falar comigo, você pode saber onde me achar nos links que
-disponibilizei na [página de contato](http://caiocarrara.com.br/contato/).
+disponibilizei na [página de contato](http://caiocarrara.com.br/contato.html).
 
