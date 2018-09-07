@@ -39,6 +39,7 @@
       </div>
       <div class="navbar-menu">
         <div class="navbar-end">
+          <a class="navbar-item" href="{{ SITEURL }}/blog.html">Blog</a>
           {% for page in pages %}
           <a class="navbar-item" href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
           {% endfor %}
