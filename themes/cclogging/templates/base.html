@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html class="has-navbar-fixed-top" lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,15 +26,30 @@
     <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
   {% endif %}
 
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bulma.min.css">
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/logging.css">
   {% block head_css %}{% endblock %}
 </head>
 <body>
-  <header>
-    <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
-  </header>
+  <nav class="navbar is-fixed-top is-dark" role="navigation" aria-label="main-navigation">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+      </div>
+      <div class="navbar-menu">
+        <div class="navbar-end">
+          <a class="navbar-item" href="{{ SITEURL }}/categories.html">Assuntos</a>
+          {% for page in pages %}
+          <a class="navbar-item" href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </nav>
 
+  <div class="container">
   {% block content %}
   {% endblock %}
+  </div>
 </body>
 </html>

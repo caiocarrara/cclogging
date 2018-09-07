@@ -2,14 +2,6 @@
 
 {% block content %}
 <div>
-  <section class="navigation">
-    <nav class="navbar">
-    <li><a href="{{ SITEURL }}/categories.html">Assuntos</a></li>
-    {% for page in pages %}
-    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
-    </nav>
-  </section>
   <section class="content">
     {% include 'includes/articles_list.html' %}
   </section>
