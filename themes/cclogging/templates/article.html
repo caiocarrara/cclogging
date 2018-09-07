@@ -1,9 +1,20 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<h1>{{ article.title }}</h1>
-<p>{{ article.locale_date }}</p>
-<p>Sobre: <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></p>
+<section class="section">
+  <div class="container">
+    <nav class="breadcrumb is-right">
+      <ul>
+        <li><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></li>
+        <li class="is-active"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="container content">
+    <h1 class="title is-2">{{ article.title }}</h1>
+    <p class="subtitle is-6">{{ article.locale_date }}</p>
 
-{{ article.content }}
+    {{ article.content }}
+  </div>
+</section>
 {% endblock %}
