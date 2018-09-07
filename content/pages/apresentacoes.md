@@ -2,6 +2,11 @@ Title: Apresentações
 Slug: apresentacoes
 
 
+Todos os slides das apresentações estão disponíveis no meu [Speaker
+Deck](https://speakerdeck.com/cacarrara). Abaixo é possível encontrar a
+descrição de cada uma bem como o ano em que foi feita.  
+
+
 ## 2018
 * **Do Python ao Infinito e Além!** Muitas pessoas tem me perguntado como
   começar a estudar Python ou mesmo o que precisa aprender para arrumar um
