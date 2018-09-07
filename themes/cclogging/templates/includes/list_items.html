@@ -1,7 +1,11 @@
-<h1>{{ title }}</h1>
+<section class="section">
+  <div class="container content">
+    <h1 class="title is-2">{{ title }}</h1>
+    <ul>
+    {% for item in items|sort %}
+      <li><a href="{{ SITEURL }}/{{ item.0.url }}">{{ item.0.name }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+</section>
 
-<ul>
-{% for item in items|sort %}
-  <li><a href="{{ SITEURL }}/{{ item.0.url }}">{{ item.0.name }}</a></li>
-{% endfor %}
-</ul>

@@ -1,3 +1,7 @@
-<h1>Artigos de {{ source.name|capitalize }}</h1>
+<section class="section" style="padding-bottom: 0">
+  <div class="container">
+    <h1 class="title is-2">Artigos de {{ source.name|capitalize }}</h1>
+  </div>
+</section>
 {% include 'includes/articles_list.html' %}
 {% include 'includes/pagination.html' %}
