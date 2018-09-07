@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Caio Carrara'
 AUTHOR_EMAIL = 'eu@caiocarrara.com.br'
-SITENAME = 'Caio Carrara - Logging'
+SITENAME = 'Caio Carrara'
 SITEURL = 'http://localhost:8000'
 
 TAGLINE = (
@@ -34,6 +34,8 @@ ARTICLE_PATHS = ['posts']
 ARTICLE_URL = ARTICLE_SAVE_AS = 'blog/{slug}.html'
 PAGE_URL = PAGE_SAVE_AS = '{slug}.html'
 TAG_URL = TAG_SAVE_AS = 'tags/{slug}.html'
+DIRECT_TEMPLATES = ['index', 'blog']
+PAGINATED_DIRECT_TEMPLATES = ['index', 'blog']
 
 NEWEST_FIRST_ARCHIVES = True
 
