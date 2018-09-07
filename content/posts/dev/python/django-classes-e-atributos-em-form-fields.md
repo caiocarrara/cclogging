@@ -1,7 +1,6 @@
-Title: Django - atribuindo classes CSS e atributos HTML a Form Fields
+Title: Django - classes e atributos em Form Fields
 Date: 2015-04-15 01:30
 Tags: python, django
-Slug: django-atribuindo-classes-css-e-atributos-html-a-form-fields
 Summary: Nesse post eu falo sobre a distinção de responsabilidades entre Fields e Widgets no sistema de formulários do Django e um potencial problema nessa maneira de abstrair o Form quanto à sua apresentação. Assim sendo eu proponho uma maneira de se trabalhar utilizando a lib django-widget-twaks para solucionar o problema apresentado, reforçando a separação de responsabilidade entre a camada de apresentação e a de lógica de negócios.
 
 ##Django Fields e Widgets
@@ -110,7 +109,7 @@ Para utilizar a lib basta instalá-la através do [pip]:
     :::bash
     $ pip install django-widget-tweaks
 
-Adicioná-la às INSTALED_APPS no settings:
+Adicioná-la as INSTALED_APPS no settings:
 
     :::python
     INSTALED_APPS = (
