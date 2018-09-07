@@ -1,10 +1,6 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<div>
-  <section class="content">
-    {% include 'includes/articles_list.html' %}
-  </section>
+  {% include 'includes/articles_list.html' %}
   {% include 'includes/pagination.html' %}
-</div>
 {% endblock %}
