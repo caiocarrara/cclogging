@@ -78,7 +78,7 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 [Dojo-Referee PyPI](https://pypi.org/project/dojo-referee/)  
 
 
-# Histórico profissional recente
+# Histórico profissional
 
 **Red Hat** - Ago/2018 - atual  
 *Software Engineer*
@@ -91,9 +91,6 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 
 **ThoughtWorks** - Jul/2015 - Jul/2016  
 *Consultor de desenvolvimento Senior*
-
-**Tegra** - Dez/2013 - Ago/2015  
-*Desenvolvedor de software Senior*
 
 **Globo.com** - Out/2014 - Jan/2015  
 *Desenvolvedor Python Pleno*
