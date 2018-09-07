@@ -1,8 +1,10 @@
-{% for article in articles_page.object_list %}
-  <section class="post">
-    <header class="post-header">
-      <h3><a class="post-title" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
-      <p class="post-meta">{{ article.summary|striptags|trim }}</p>
-    </header>
-  </section>
-{% endfor %}
+<section class="section">
+  <div class="container">
+    {% for article in articles_page.object_list %}
+      <div class="content">
+      <h2><a class="post-title" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+      <p>{{ article.summary|striptags|trim }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
