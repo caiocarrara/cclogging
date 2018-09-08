@@ -17,7 +17,7 @@ descrição de cada uma bem como o ano em que foi feita.
   software hoje em dia. Pensando em explorar um pouco esse tema vamos fazer uma
   viagem que irá do Python ao Infinito e Além!  
   Slides: [do-python-ao-infinito](https://speakerdeck.com/cacarrara/do-python-ao-infinito-e-alem)  
-* **Be Remote, Be Yoursef:** Slides da minha palestra sobre trabalho remoto
+* **Be Remote, Be Yourself:** Slides da minha palestra sobre trabalho remoto
   realizada no primeiro HRW2 (How Remote Work Works) em Sorocaba.  
   Slides: [be-remote-be-yourself](https://speakerdeck.com/cacarrara/be-remote-be-yourself)  
 ## 2016
