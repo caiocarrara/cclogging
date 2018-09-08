@@ -14,8 +14,6 @@ FTP_TARGET_DIR=/
 
 SSH_HOST=caiocarrara.com.br
 SSH_PORT=22
-SSH_USER=caio
-SSH_TARGET_DIR=/var/www/caiocarrara_com_br
 
 S3_BUCKET=my_s3_bucket
 
