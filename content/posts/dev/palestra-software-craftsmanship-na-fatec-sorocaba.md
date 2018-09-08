@@ -6,8 +6,7 @@ Summary: O Manifesto for Software Craftsmanship não é tão popular hoje em dia
 
 Visando apresentar o Artesanato de Software, bem como alguns outros princípios
 para os graduandos em Análise e Desenvolvimento de Sistemas da FATEC De
-Sorocaba, no dia 08/10/2014 apresentei a palestra Artesanato de Software que
-compartilho aqui agora.  
+Sorocaba, no dia 08/10/2014 apresentei a palestra Artesanato de Software.  
 
 O [Manifesto for Software
 Craftsmanship](http://manifesto.softwarecraftsmanship.org/) não é tão popular
@@ -17,6 +16,6 @@ quanto os do Agile. Visando apresentar o _Artesanato de Software_, bem como
 alguns outros princípios para os graduandos em [Análise e Desenvolvimento de
 Sistemas da FATEC De Sorocaba](http://fatecsorocaba.edu.br/topo/cursos/ads.asp),
 no dia 08/10/2014 apresentei a palestra **Artesanato de Software** que
-compartilho aqui agora:  
+tem os slides utilizados acessíveis através do link abaixo:  
 
-<script async class="speakerdeck-embed" data-id="9e019c8031df01327f262efaeef44115" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+[Artesanato de Software - Caio Carrara](https://speakerdeck.com/cacarrara/artesanato-de-software-fatec-sorocaba)
