@@ -27,6 +27,11 @@
         </div>
         <div class="column">
           <p class="bd-footer-link-title">Mais</p>
+          {% if FEED_ALL_ATOM %}
+          <p class="bd-footer-link">
+            <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">RSS</a>
+          </p>
+          {% endif %}
           <p class="bd-footer-link">
             <a href="https://github.com/cacarrara">Github</a>
           </p>
