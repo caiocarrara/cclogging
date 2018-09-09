@@ -1,7 +1,7 @@
 <section class="section">
   <div class="container">
     {% for article in articles_page.object_list %}
-      <div class="content">
+      <div class="content is-medium">
       <h2><a class="post-title" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
       <p>{{ article.summary|striptags|trim }}</p>
       </div>
