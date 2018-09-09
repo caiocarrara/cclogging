@@ -98,7 +98,7 @@ participei, para o projeto onde atuamos, acabei sendo o membro que mais
 contribuiu com code reviews do time.
 
 <img class="image is-pulled-left"
-     src="https://caiocarrara.com.br/s/openstack_graph.png"
+     src="https://s.caiocarrara.com.br/openstack_graph.png"
      alt="gráfico de contribuições no openstack">
 
 Nesse processo pude aprender algumas coisas importantes que trago comigo até
@@ -176,7 +176,7 @@ projeto em que estávamos atuando, acabou me rendendo o status de core commiter
 (como pode ser visto pelos +2 abaixo):  
 
 <img class="image" style="margin: 0 auto"
-     src="https://caiocarrara.com.br/s/openstack_contributions.png"
+     src="https://s.caiocarrara.com.br/openstack_contributions.png"
      alt="tabela de contribuições no openstack">
 
 Reparem que o número de commits é bem baixo, mas ainda assim acabei me tornando
