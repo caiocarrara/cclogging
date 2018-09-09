@@ -18,6 +18,12 @@
           {% endfor %}
         </div>
         <div class="column">
+          <p class="bd-footer-link-title">Últimos posts</p>
+          {% for article in articles[:4] %}
+          <p class="bd-footer-link">
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+          </p>
+          {% endfor %}
           <p class="bd-footer-link-title">Assuntos</p>
           {% for category in categories %}
           <p class="bd-footer-link">
