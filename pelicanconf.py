@@ -37,6 +37,8 @@ TAG_URL = TAG_SAVE_AS = 'tags/{slug}.html'
 DIRECT_TEMPLATES = ['index', 'blog']
 PAGINATED_DIRECT_TEMPLATES = ['blog']
 
+SLUGIFY_SOURCE = 'title'
+
 NEWEST_FIRST_ARCHIVES = True
 
 # Blogroll
