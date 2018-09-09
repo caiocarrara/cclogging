@@ -94,10 +94,3 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 
 **Globo.com** - Out/2014 - Jan/2015  
 *Desenvolvedor Python Pleno*
-
-
-## Contato
-
-Se estiver querendo falar comigo, você pode saber onde me achar nos links que
-disponibilizei na [página de contato](http://caiocarrara.com.br/contato.html).
-
