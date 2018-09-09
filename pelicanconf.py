@@ -8,7 +8,7 @@ SITENAME = 'cC Log'
 SITEURL = 'http://localhost:8000'
 
 TAGLINE = (
-    'Python, software/internet livre, open source e ideias aleatórias. Não necessariamente nessa ordem'
+    'Caio Carrara, Programação, Python, Software, Liberdade e Autonomia'
 )
 
 PATH = 'content'
