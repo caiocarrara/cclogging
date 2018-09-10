@@ -6,8 +6,8 @@ Summary: Após mais de 4 anos utilizando o serviço GitHub Pages para hospedar m
 
 Primeiramente o motivo pelo qual migrei meu site/blog pessoal do [GitHub
 Pages](https://pages.github.com/) para um [Servidor Virtual Privado
-(VPS)](https://en.wikipedia.org/wiki/Virtual_private_server) próprio não foi a
-recente [compra do GitHub pela
+(VPS)](https://en.wikipedia.org/wiki/Virtual_private_server) não foi a recente
+[compra do GitHub pela
 Microsoft](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/).
 Esse fato pode ter me tirado de uma momentânea inércia, mas não foi
 determinante. A minha decisão foi baseada em alguns princípios fundamentais que
