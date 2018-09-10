@@ -26,12 +26,14 @@
     </nav>
   </div>
   <div class="container content is-medium">
-    <h1 class="title is-2">{{ article.title }}</h1>
-    <p class="subtitle is-6">{{ article.locale_date }}</p>
+    <div class="column is-8 is-offset-2">
+      <h1 class="title is-2">{{ article.title }}</h1>
+      <p class="subtitle is-6">{{ article.locale_date }}</p>
 
-    {{ article.content }}
+      {{ article.content }}
 
-    {% include 'includes/contact_excerpt.html' %}
+      {% include 'includes/contact_excerpt.html' %}
+    </div>
   </div>
 </section>
 {% endblock %}
