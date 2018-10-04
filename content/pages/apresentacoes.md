@@ -8,6 +8,14 @@ descrição de cada uma bem como o ano em que foi feita.
 
 
 ## 2018
+* **Tecnologia da informação: carreira e mercado** Apresentação realizada na
+  semana de tecnologia da Faculdade de Tecnologia de Sorocaba em 2018. Falo um
+  pouco sobre carreira e o mercado dentro da área de tecnologia da informação.
+  Exemplifico algumas abordagens com o meu próprio histórico profissional e
+  demonstro algumas informações relevantes sobre o mercado como áreas de atuação
+  e seus salários. Também dedico uma seção final para dicas e respostas de
+  algumas perguntas frequentes que aparecem.  
+  Slides: [tecnologia-da-informacao-carreira-e-mercado](https://speakerdeck.com/cacarrara/tecnologia-da-informacao-carreira-e-mercado)  
 * **Do Python ao Infinito e Além!** Muitas pessoas tem me perguntado como
   começar a estudar Python ou mesmo o que precisa aprender para arrumar um
   emprego e trabalhar com Python a maior parte do tempo. Com as experiências me
