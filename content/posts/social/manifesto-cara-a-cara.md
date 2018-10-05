@@ -4,7 +4,7 @@ Tags: social
 Summary: Compartilho um olhar sobre a abordagem atual de inovação e evolução tecnológica. Por algum tempo venho acompanhando o que é considerado modelo inovador de negócio ou mesmo as principais empresas disruptivas. São ótimas ideias. Mas parecem deixar de lado justamente o aspecto humano das pessoas e das sociedades em geral. Especialmente em virtude da realidade atual brasileira (eleições, polarização), corroborada por outros eventos globais, esse texto em formato de manifesto traz à tona a necessidade de aproximarmos as pessoas de forma mais humana. Precisamos, mais uma vez, tentar colocar as pessoas no centro de tudo.
 
 A gente precisa voltar a se relacionar pessoalmente. Conversar olhando no olho.
-Ouvir as distorções das vozes, os olhares de dúvidas, o coçar de cabeça
+Ouvir as distorções das vozes, perceber os olhares de dúvidas, o coçar de cabeça
 distraído. Está faltando a gente perceber que do outro lado tem gente como a
 gente mas ao mesmo tempo completamente diferente. A convergência das diferentes
 realidades, contextos e experiências é o que nos move. Não no sentido
