@@ -8,16 +8,16 @@ Ouvir as distorções das vozes, perceber os olhares de dúvidas, o coçar de ca
 distraído. Está faltando a gente perceber que do outro lado tem gente como a
 gente mas ao mesmo tempo completamente diferente. A convergência das diferentes
 realidades, contextos e experiências é o que nos move. Não no sentido
-estritamente economico e monetário (medida pela qual o status quo prefere aferir
+estritamente econômico e monetário (medida pela qual o status quo prefere aferir
 suposta evolução). Experimentar as diferenças nos movimenta para aquilo que não
-somos, nos move progressivamente para uma relidade melhor para um maior número
-de pessoas.
+estamos acostumados, nos move progressivamente para uma realidade melhor para um
+maior número de pessoas.
 
 Negar os benefícios e vantagens da tecnologia, em especial relacionada à
 comunicação, é no mínimo ingenuidade. Entretanto, feito criança com brinquedo
 novo ou com aquele doce no fim de festa, parece que entramos em uma dimensão
 entorpecente que nos impossibilita perceber a realidade ao redor. Ao mesmo tempo
-que temos acesso à um mundo completamente novo de informações e conhecimento
+que temos acesso à um mundo completamente novo de informações e conhecimentos
 nunca antes pensados na atual magnitude de distribuição, não aumentamos a nossa
 capacidade de empatia, compreensão, aceitação, diálogo, negociação e
 argumentação, dentre tantas outras características e habilidades. Muitas dessas
@@ -28,7 +28,7 @@ Se comunicar e se relacionar parece óbvio e trivial. Entretanto o aumento da
 percepção das bolhas sociais escancara que estamos muito longe de saber lidarmos
 com gente. Muito menos com gente diferente. A segregação pela diferença, em
 maior ou menor amplitude, coloca a sociedade em um contexto de embates,
-conflitos, discussões distrutivas. Quem sabe até onde isso pode chegar! Nós
+conflitos, discussões destrutivas. Quem sabe até onde isso pode chegar! Nós
 somos seres diferentes com certeza. Cada um carrega consigo um universo de
 ideias, costumes, cultura, hábitos, conhecimento, limitações e virtudes.
 Segregar a partir do que é semelhante é comprometer a evolução a partir da
