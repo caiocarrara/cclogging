@@ -7,8 +7,8 @@ Slug: sobre
 Sou apaixonado por desenvolvimento de software e, desde que descobri isso, não
 consegui mais parar de programar.
 
-Atualmente trabalho para a [Red Hat](http://redhat.com) remotamente como *Software
-Engineer* no time de virtualização.
+Atualmente trabalho para a [Loadsmart](http://loadsmart.com) como
+*Back End Engineer*.
 
 
 ## Formação
