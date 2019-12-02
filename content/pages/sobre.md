@@ -64,36 +64,36 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 
 
 ## Projetos Open Source
-**InSpace**
-*Community knowledge register, organizer and sharing*
+**InSpace**  
+*Community knowledge register, organizer and sharing*  
 [InSpace Repository](https://github.com/cacarrara/inspace)
 
-**Vimnimum**
-*A minimalistic vimrc configuration and generator.*
+**Vimnimum**  
+*A minimalistic vimrc configuration and generator.*  
 [Vimnimum Repository](https://github.com/cacarrara/vimnimum)
 
-**Dojo-Referee**
-*Just another Coding Dojo assistant tool in pure Python (but with GUI)*
-[Dojo-Referee Repository](https://github.com/cacarrara/dojo-referee)
+**Dojo-Referee**  
+*Just another Coding Dojo assistant tool in pure Python (but with GUI)*  
+[Dojo-Referee Repository](https://github.com/cacarrara/dojo-referee)  
 [Dojo-Referee PyPI](https://pypi.org/project/dojo-referee/)
 
 
 # Histórico profissional
 
-**Loadsmart** - Mar/2019 - atual
+**Loadsmart** - Mar/2019 - atual  
 *Back End Engineer*
 
-**Red Hat** - Ago/2018 - Fev/2019
+**Red Hat** - Ago/2018 - Fev/2019  
 *Software Engineer*
 
-**Olist** - Fev/2017 - Jul/2018
+**Olist** - Fev/2017 - Jul/2018  
 *Desenvolvedor Python Senior*
 
-**SkyMarket** - Jul/2016 - Fev/2017
+**SkyMarket** - Jul/2016 - Fev/2017  
 *Desenvolvedor Python Senior*
 
-**ThoughtWorks** - Jul/2015 - Jul/2016
+**ThoughtWorks** - Jul/2015 - Jul/2016  
 *Consultor de desenvolvimento Senior*
 
-**Globo.com** - Out/2014 - Jan/2015
+**Globo.com** - Out/2014 - Jan/2015  
 *Desenvolvedor Python Pleno*
