@@ -35,7 +35,7 @@ ARTICLE_URL = ARTICLE_SAVE_AS = 'blog/{slug}.html'
 PAGE_URL = PAGE_SAVE_AS = '{slug}.html'
 TAG_URL = TAG_SAVE_AS = 'tags/{slug}.html'
 DIRECT_TEMPLATES = ['index', 'blog']
-PAGINATED_DIRECT_TEMPLATES = ['blog']
+PAGINATED_TEMPLATES = {'blog': None}
 
 SLUGIFY_SOURCE = 'title'
 
