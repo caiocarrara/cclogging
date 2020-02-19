@@ -68,9 +68,9 @@ no tocante ao suporte a orientação a objetos.
 >   quase algébrica.
 
 O trecho acima é uma tradução livre das palavras do criador do termo
-"programação orientada a objetos", [Alan Kay](1), ao responder qual era
+"programação orientada a objetos", [Alan Kay][1], ao responder qual era
 a sua intenção ao propor o conceito de programação orientada a objetos.
-Toda a [resposta de Kay](2) é uma leitura muito interessante. Inclusive
+Toda a [resposta de Kay][2] é uma leitura muito interessante. Inclusive
 por um trecho bastante emblemático:
 
 > Eu não sou contrário aos tipos (n.t. referência a tipagem estática),
@@ -106,7 +106,7 @@ através da passagem de mensagens pelos de seus métodos.
 > programa Python são representados por objetos e relações entre eles.
 
 A afirmação acima é a primeira sentença da documentação oficial da
-linguagem Python sobre [Data Model - Objects, values and types](3). Essa
+linguagem Python sobre [Data Model - Objects, values and types][3]. Essa
 mesma página da documentação traz informações e definições super
 importantes sobre cada um dos elementos que compõem o sistema de tipos
 padrão da linguagem. Nela podemos encontrar a seguinte definição para o
@@ -386,5 +386,5 @@ software quanto um comprometimento na qualidade da implementação.
 
 
 [1]: https://en.wikipedia.org/wiki/Alan_Kay
-[3]: https://docs.python.org/3/reference/datamodel.html
 [2]: https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en
+[3]: https://docs.python.org/3/reference/datamodel.html
