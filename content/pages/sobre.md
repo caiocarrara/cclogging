@@ -7,8 +7,8 @@ Slug: sobre
 Sou apaixonado por desenvolvimento de software e, desde que descobri isso, não
 consegui mais parar de programar.
 
-Atualmente trabalho para a [Loadsmart](http://loadsmart.com) como
-*Back End Engineer*.
+Atualmente trabalho para a [Doist](http://doist.com) como
+*Senior Back End Engineer*.
 
 
 ## Formação
@@ -80,8 +80,11 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 
 # Histórico profissional
 
-**Loadsmart** - Mar/2019 - atual  
-*Back End Engineer*
+**Doist** - Mai/2020 - atual  
+*Senior Back End Engineer*
+
+**Loadsmart** - Mar/2019 - Abr/2020  
+*Senior Back End Engineer*
 
 **Red Hat** - Ago/2018 - Fev/2019  
 *Software Engineer*
