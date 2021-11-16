@@ -7,8 +7,8 @@ Slug: sobre
 Sou apaixonado por desenvolvimento de software e, desde que descobri isso, não
 consegui mais parar de programar.
 
-Atualmente trabalho para a [Doist](http://doist.com) como
-*Senior Back End Engineer*.
+Atualmente trabalho para a [Tech Matters](http://techmatters.org) como
+*Senior Software Engineer*.
 
 
 ## Formação
@@ -80,7 +80,10 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 
 # Histórico profissional
 
-**Doist** - Mai/2020 - atual  
+**Tech Matters** - Out/2021 - atual  
+*Senior Software Engineer*
+
+**Doist** - Mai/2020 - Out/2021  
 *Senior Back End Engineer*
 
 **Loadsmart** - Mar/2019 - Abr/2020  
