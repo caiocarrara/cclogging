@@ -1,4 +1,4 @@
-Title: [vim] Formatando JSON
+Title: vim Formatando JSON
 Date: 2017-06-22 18:00
 Tags: desenvolvimento, dicas, vim
 Slug: vim-formatando-json
