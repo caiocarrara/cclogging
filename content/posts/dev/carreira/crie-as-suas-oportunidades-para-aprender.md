@@ -44,7 +44,7 @@ base dos arquivos .html, o caracter que deveria ser removido e o caracter que
 seria inserido. O help estava versionado então eu rodei o script de primeira,
 sem medo, para ver o que dava e não é que funcionou?! O script em questão segue
 abaixo e também pode ser acessado no [meu
-Github](https://github.com/cacarrara/py_scripts/blob/master/replace_in_all_files.py
+Github](https://github.com/caiocarrara/py_scripts/blob/master/replace_in_all_files.py
 "Github do Caio Carrara python scripts"):
 
     :::python  

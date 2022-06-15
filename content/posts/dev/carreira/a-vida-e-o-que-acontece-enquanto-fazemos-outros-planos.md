@@ -122,7 +122,7 @@ registrar, pequenos passos que realizei até agora:
     de muito tempo que conheci Python e
     [Django](https://www.djangoproject.com/ "Django framework"), só
     agora cheguei a concluir um crud básico (tem até ajax =P), o meu
-    [simple\_todo](https://github.com/cacarrara/simple_todo "Caio Carrara - Simple TODO").
+    [simple\_todo](https://github.com/caiocarrara/simple_todo "Caio Carrara - Simple TODO").
 -   **Twitter:** estou começando a interagir mais com o pessoal. Isso
     vem junto com a minha insatisfação com redes sociais em geral, pois
     o conteúdo anda muito ruim, logo, vamos mudar isso já!

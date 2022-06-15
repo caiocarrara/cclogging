@@ -49,7 +49,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (
-    ('github', 'https://github.com/cacarrara/'),
+    ('github', 'https://github.com/caiocarrara/'),
     ('twitter', 'https://twitter.com/CaioWCC'),
     ('rss', 'http://caiocarrara.com.br/feeds/caio-carrara.atom.xml'),
 )

@@ -64,17 +64,13 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 
 
 ## Projetos Open Source
-**InSpace**  
-*Community knowledge register, organizer and sharing*  
-[InSpace Repository](https://github.com/cacarrara/inspace)
-
 **Vimnimum**  
 *A minimalistic vimrc configuration and generator.*  
-[Vimnimum Repository](https://github.com/cacarrara/vimnimum)
+[Vimnimum Repository](https://github.com/caiocarrara/vimnimum)
 
 **Dojo-Referee**  
 *Just another Coding Dojo assistant tool in pure Python (but with GUI)*  
-[Dojo-Referee Repository](https://github.com/cacarrara/dojo-referee)  
+[Dojo-Referee Repository](https://github.com/caiocarrara/dojo-referee)  
 [Dojo-Referee PyPI](https://pypi.org/project/dojo-referee/)
 
 

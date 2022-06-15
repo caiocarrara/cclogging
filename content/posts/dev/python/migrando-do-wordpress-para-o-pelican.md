@@ -100,7 +100,7 @@ artigos.
 
 Todo usuário do Github já possui previamente uma conta no serviço [Pages], basta
 criar um repositório cujo nome seja `[username].github.io`. No meu caso o
-repositório ficou com o nome `cacarrara.github.io`. Os arquivos que estiverem no
+repositório ficou com o nome `caiocarrara.github.io`. Os arquivos que estiverem no
 branch `master` desse repositório são utilizados pelo Pages para exibir as
 páginas do site na url com o mesmo nome do repositório criado.  
 
@@ -138,7 +138,7 @@ recomendo a própria documentação do Github para isso: [Github Pages - Custom
 URLs]. Qualquer dúvida deixa nos comentários que posso ajudar!  
 
 Para quem quiser dar uma olhada, o repositório desse site está no meu Github:
-[cacarrara.github.io].
+[caiocarrara.github.io].
 
 Bom, é isso. Até a próxima! 
 
@@ -160,4 +160,4 @@ Bom, é isso. Até a próxima!
 [Github Pages]:http://pages.github.com
 [Pages]:http://pages.github.com  
 [Github Pages - Custom URLs]:https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages
-[cacarrara.github.io]:https://github.com/cacarrara/cacarrara.github.io/
+[caiocarrara.github.io]:https://github.com/caiocarrara/caiocarrara.github.io/
