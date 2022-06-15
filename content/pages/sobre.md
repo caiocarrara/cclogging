@@ -7,9 +7,6 @@ Slug: sobre
 Sou apaixonado por desenvolvimento de software e, desde que descobri isso, não
 consegui mais parar de programar.
 
-Atualmente trabalho para a [Tech Matters](http://techmatters.org) como
-*Senior Software Engineer*.
-
 
 ## Formação
 
@@ -76,7 +73,7 @@ burocráticos](https://speakerdeck.com/cacarrara/python-guerrilha-python-brasil-
 
 # Histórico profissional
 
-**Tech Matters** - Out/2021 - atual  
+**Tech Matters** - Out/2021 - Jun/2022  
 *Senior Software Engineer*
 
 **Doist** - Mai/2020 - Out/2021  
